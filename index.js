@@ -109,9 +109,7 @@ const fi = (function() {
     values: function(object) {
       return Object.values(object);
     },
-    giveMeMore: function(){
-      return true
-    },
+    
 
     functions:function(obj){
       let final =  [];
