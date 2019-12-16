@@ -109,7 +109,7 @@ const fi = (function() {
     values: function(object) {
       return Object.values(object);
     },
-    
+
 
     functions:function(obj){
       let final =  [];
